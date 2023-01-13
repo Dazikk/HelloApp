@@ -33,14 +33,6 @@ class Program
         {
             simvol = '-';
             Console.WriteLine(firstNumber - secondNumber);
-
         }
-
-
-
-
-    }
-}
-
     }
 }   
